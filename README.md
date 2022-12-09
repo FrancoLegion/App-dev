@@ -7,3 +7,4 @@ My first respository
 ## Main Characters
 - Theodore Finch
 - Violet Markey
+- Is the two main characters
